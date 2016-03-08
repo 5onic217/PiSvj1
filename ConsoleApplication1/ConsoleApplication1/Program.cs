@@ -20,5 +20,6 @@ namespace ConsoleApplication1
                 Console.WriteLine("GG");
             }
         }
+        public static void(){};
     }
 }
