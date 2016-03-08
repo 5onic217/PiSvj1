@@ -17,7 +17,7 @@ namespace ConsoleApplication1
                 {
                     Console.Write("*");
                 }
-                Console.WriteLine("");
+                Console.WriteLine("GG");
             }
         }
     }
